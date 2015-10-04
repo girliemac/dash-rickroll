@@ -1,4 +1,4 @@
-# Dash-Rickroll
+# Amazon Dash Rickroll
 This is a node.js application to Rickroll somebody who presses your Amazon Dash button.
 
 
