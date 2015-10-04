@@ -22,7 +22,11 @@ See it in action in 6 sec on [Vine](https://vine.co/v/e2m3emJZVqB)!
 
 Make sure you have node.js running on your machine.
 
-### Setup
+### Hardware Setup
+
+For the first time setting up Dash, use the Amazon Shopping app and connect to yur WiFi by following the instructions. However, do *not* select any product for purchase, just quit the app.
+
+### Software Setup
 
 Fork this code, then install the dependency, `node-dash-button`:
 
