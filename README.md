@@ -24,7 +24,7 @@ Make sure you have node.js running on your machine.
 
 ### Setup
 
-First, install the dependency. This app uses `node-dash-button`:
+Fork this code, then install the dependency, `node-dash-button`:
 
 ```bash
 $ npm install
@@ -39,7 +39,7 @@ $ node bin/findbutton
 
 See this [instruction](https://github.com/hortinstein/node-dash-button#find-a-dash) for more details.
 
-Create a `config.js file` with your Dash's MAC address.
+Then create a `config.js file` and define your Dash's MAC address.
 
 ```javascript
 module.exports = {
@@ -55,4 +55,4 @@ Run
 $ sudo node index.js
 ```
 
-
+Now press your Dash and see what happens.
