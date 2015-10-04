@@ -1,0 +1,18 @@
+{
+  "name": "dash-rickroll",
+  "version": "1.0.0",
+  "description": "Rickroll you every time the a Dash button is pressed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Tomomi Imura",
+    "twitter": "@girlie_mac",
+    "url": "http://girliemac.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-dash-button": "^0.1.1"
+  }
+}
