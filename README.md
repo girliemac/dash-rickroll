@@ -10,7 +10,7 @@ Thank you for these guys, I was able to hack my dash button in such a short amou
 
 ## Demo
 
-See the action in 6sec on [Vine](https://vine.co/v/e2m3emJZVqB)!
+See it in action in 6 sec on [Vine](https://vine.co/v/e2m3emJZVqB)!
 
 ![Rick button](rick-button.jpg "Dash to Rickroll")
 
